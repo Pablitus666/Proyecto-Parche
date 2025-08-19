@@ -1,6 +1,11 @@
-## adobe-patcher v1.0 — Utilidad de Parcheo para Adobe
+## Adobe-Patcher v1.0 — Utilidad de Parcheo para Adobe
 
-**adobe-patcher** es una potente y amigable utilidad de PowerShell diseñada para gestionar la conectividad y los parches a nivel de sistema de las aplicaciones de Adobe. Creada para ser intuitiva y segura, esta herramienta proporciona una interfaz de consola clara para aplicar y revertir modificaciones comunes de forma segura.
+## 📷 Capturas de pantalla
+<p align="center">
+<img src="https://raw.githubusercontent.com/Pablitus666/Proyecto-Parche/main/images/preview.png" alt="Preview del Parche" width="600">
+</p>
+
+**Adobe-Patcher** es una potente y amigable utilidad de PowerShell diseñada para gestionar la conectividad y los parches a nivel de sistema de las aplicaciones de Adobe. Creada para ser intuitiva y segura, esta herramienta proporciona una interfaz de consola clara para aplicar y revertir modificaciones comunes de forma segura.
 
 ### ✨ Características Destacadas
 
