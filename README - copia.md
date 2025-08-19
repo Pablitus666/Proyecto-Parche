@@ -3,7 +3,7 @@
 Una potente y amigable utilidad de PowerShell para gestionar la conectividad y los parches a nivel de sistema de las aplicaciones de Adobe. Esta herramienta proporciona una interfaz de consola clara para aplicar modificaciones comunes de forma segura y reversible.
 
 <!-- Badges -->
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Pablitus666/Proyecto-Parche?style=flat-square)](../../releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Pablitus666/Info-RAM?style=flat-square)](https://github.com/Pablitus666/Info-RAM/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](LICENSE) <!-- Assuming a LICENSE file will be added or it's just a statement -->
 
 ![Social Preview](images/socialpreview.png)
@@ -32,15 +32,7 @@ Esta herramienta está destinada únicamente a fines educativos y administrativo
 
 Pantalla principal de Parche mostrando su menú. 
 
-## 🚀 Descarga
-
-La forma más sencilla de obtener la herramienta es descargando la última versión desde la página de Releases de GitHub.
-
-**[➡️ Descargar la última versión desde GitHub Releases ⬅️](../../releases/latest)**
-
 ## 🖥️ ¿Cómo se usa?
-
-Si descargas el código fuente en lugar de la versión del Release, sigue estos pasos:
 
 1.  Descarga o clona este repositorio.
 2.  Navega a la carpeta del proyecto `Proyecto Parche`.
