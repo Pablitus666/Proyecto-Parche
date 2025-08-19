@@ -12,7 +12,7 @@ Una potente y amigable utilidad de PowerShell para gestionar la conectividad y l
 
 Esta herramienta está destinada únicamente a fines educativos y administrativos. Modifica archivos de sistema como el archivo `hosts`, reglas del firewall y carpetas del sistema. Úsala bajo tu propio riesgo. El autor no se hace responsable de ningún daño en tu sistema. Asegúrate siempre de tener una copia de seguridad de tus datos importantes.
 
-## Características
+## ✨ Características
 
 - **Gestión de Procesos:** Detiene rápidamente todos los procesos y servicios de Adobe en ejecución.
 - **Bloqueo por Archivo Hosts:** Añade o elimina automáticamente los dominios de los servidores de Adobe en tu archivo `hosts` para bloquear las conexiones de red.
@@ -32,14 +32,14 @@ Esta herramienta está destinada únicamente a fines educativos y administrativo
 
 Pantalla principal de Parche mostrando su menú. 
 
-## ¿Cómo se usa?
+## 🖥️ ¿Cómo se usa?
 
 1.  Descarga o clona este repositorio.
 2.  Navega a la carpeta del proyecto `Proyecto Parche`.
 3.  Simplemente haz doble clic en el archivo `Parche.bat`. El script solicitará automáticamente los permisos de administrador.
 4.  Usa las teclas numéricas para navegar por el menú y aplicar o eliminar los parches según necesites.
 
-## Créditos
+## 👨‍💻 Créditos
 
 - **Creador y Mantenedor:** Pablitus
 
