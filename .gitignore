@@ -1,0 +1,10 @@
+# PowerShell history
+.ps_history
+
+# User-specific files
+*.user
+*.suo
+*.[Cc]ache
+
+# VS Code
+.vscode/
