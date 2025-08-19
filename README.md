@@ -8,7 +8,7 @@ Una potente y amigable utilidad de PowerShell para gestionar la conectividad y l
 
 ![Social Preview](images/socialpreview.png)
 
-## Descargo de Responsabilidad (Disclaimer)
+## 🛡️ Descargo de Responsabilidad (Disclaimer)
 
 Esta herramienta está destinada únicamente a fines educativos y administrativos. Modifica archivos de sistema como el archivo `hosts`, reglas del firewall y carpetas del sistema. Úsala bajo tu propio riesgo. El autor no se hace responsable de ningún daño en tu sistema. Asegúrate siempre de tener una copia de seguridad de tus datos importantes.
 
