@@ -2,6 +2,12 @@
 
 Una potente y amigable utilidad de PowerShell para gestionar la conectividad y los parches a nivel de sistema de las aplicaciones de Adobe. Esta herramienta proporciona una interfaz de consola clara para aplicar modificaciones comunes de forma segura y reversible.
 
+<!-- Badges -->
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Pablitus666/Info-RAM?style=flat-square)](https://github.com/Pablitus666/Info-RAM/releases)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](LICENSE) <!-- Assuming a LICENSE file will be added or it's just a statement -->
+
+![Social Preview](images/socialpreview.png)
+
 ## Descargo de Responsabilidad (Disclaimer)
 
 Esta herramienta está destinada únicamente a fines educativos y administrativos. Modifica archivos de sistema como el archivo `hosts`, reglas del firewall y carpetas del sistema. Úsala bajo tu propio riesgo. El autor no se hace responsable de ningún daño en tu sistema. Asegúrate siempre de tener una copia de seguridad de tus datos importantes.
@@ -18,6 +24,14 @@ Esta herramienta está destinada únicamente a fines educativos y administrativo
 - **Interfaz de Usuario Amigable:** Una interfaz de usuario basada en texto (TUI) limpia e intuitiva para una fácil operación.
 - **Elevación Automática de Privilegios:** El script solicita automáticamente los permisos de administrador necesarios para funcionar.
 
+## 📷 Capturas de pantalla
+
+<p align="center">
+  <img src="images/screenshot.png?v=2" alt="Vista previa de la aplicación" width="600"/>
+</p>
+
+Pantalla principal de Parche mostrando su menú. 
+
 ## ¿Cómo se usa?
 
 1.  Descarga o clona este repositorio.
@@ -28,6 +42,5 @@ Esta herramienta está destinada únicamente a fines educativos y administrativo
 ## Créditos
 
 - **Creador y Mantenedor:** Pablitus
-- **Mejoras de código y robustez:** Gemini
 
 Este proyecto es un esfuerzo comunitario. ¡Gracias a todos los que lo prueban, lo apoyan y reportan errores!
