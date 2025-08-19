@@ -1,0 +1,18 @@
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+	 ____       _     _ _ _                   
+	|  _ \ __ _| |__ | (_) |_ _   _ ___       
+	| |_) / _  | '_ \| | | __| | | / __|      
+	|  __/ (_| | |_) | | | |_| |_| \__ \_ _ _ 
+	|_|   \__,_|_.__/|_|_|\__|\__,_|___(_|_|_)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Instrucciones de Uso - Parche Adobe
+------------------------------------
+
+1. Descomprime TODOS los archivos del .zip en una nueva carpeta. Es importante que todos los archivos y carpetas estén juntos.
+
+2. Haz clic derecho sobre el archivo "Parche.bat" y selecciona "Ejecutar como administrador". Este paso es crucial para que el parche funcione.
+
+3. Sigue las opciones que aparecerán en el menú del programa para aplicar el parche.
+
+Nota: Es posible que tu antivirus detecte el archivo como una amenaza. Esto es un falso positivo común en este tipo de herramientas.
